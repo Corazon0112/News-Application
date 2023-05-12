@@ -5,7 +5,7 @@
 This is a simple news application that allows users to browse and read news articles of different categories from various sources. The application is built using Java and utilizes the NewsAPI to fetch the latest news headlines and articles from a variety of sources.
 
 ## Features:
-Users can browse news articles by category, including business, entertainment, general, health, science, sports, and technology.
+Users can browse news articles by category, including general, sports, business, entertainment, technology, science, and health.
 Users can view the news articles directly from the source
 The application provides a simple and easy-to-use interface.
 
