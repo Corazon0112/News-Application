@@ -1,8 +1,7 @@
 # News Application
+This is a simple news application that allows users to browse and read news articles of different categories from various sources. The application is built using Java and utilizes the NewsAPI to fetch the latest news headlines and articles from a variety of sources.
 
 ![Screenshot (25)](https://github.com/Corazon0112/NewsApp/assets/92594865/6d04a244-20e4-455e-ab67-129d6bfde624)
-
-This is a simple news application that allows users to browse and read news articles of different categories from various sources. The application is built using Java and utilizes the NewsAPI to fetch the latest news headlines and articles from a variety of sources.
 
 ## Features:
 Users can browse news articles by category, including general, sports, business, entertainment, technology, science, and health.
