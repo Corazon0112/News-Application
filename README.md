@@ -9,10 +9,10 @@ Users can browse news articles by category, including general, sports, business,
 Users can view the news articles directly from the source
 The application provides a simple and easy-to-use interface.
 
-## Technology Stack:
-Java
-NewsAPI
-RecyclerView
+## Technology Stack/IDE:
+Java,
+NewsAPI,
+RecyclerView,
 Android Studio
 
 ## Getting Started:
