@@ -12,7 +12,7 @@ The application provides a simple and easy-to-use interface.
 ## Technology Stack/IDE:
 Java,
 NewsAPI,
-RecyclerView,
+Shimmering RecyclerView,
 Android Studio
 
 ## Getting Started:
